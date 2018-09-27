@@ -1,0 +1,6 @@
+framework module Pods_libbcrypt {
+  umbrella header "Pods-libbcrypt-umbrella.h"
+
+  export *
+  module * { export * }
+}

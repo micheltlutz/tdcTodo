@@ -1,4 +1,5 @@
 import FluentSQLite
+import FluentPostgreSQL
 import Vapor
 
 /// Called before your application initializes.
